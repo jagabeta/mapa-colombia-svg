@@ -1,0 +1,14 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "Departamento": "Antioquia" }, "geometry": { "type": "Polygon", "coordinates": [[[ -76.5, 8.8 ], [ -75.0, 8.8 ], [ -75.0, 6.0 ], [ -76.5, 6.0 ], [ -76.5, 8.8 ]]] } },
+
+    { "type": "Feature", "properties": { "Departamento": "Valle del Cauca" }, "geometry": { "type": "Polygon", "coordinates": [[[ -77.8, 4.5 ], [ -76.0, 4.5 ], [ -76.0, 3.0 ], [ -77.8, 3.0 ], [ -77.8, 4.5 ]]] } },
+
+    { "type": "Feature", "properties": { "Departamento": "Risaralda" }, "geometry": { "type": "Polygon", "coordinates": [[[ -76.2, 5.2 ], [ -75.5, 5.2 ], [ -75.5, 4.6 ], [ -76.2, 4.6 ], [ -76.2, 5.2 ]]] } },
+
+    { "type": "Feature", "properties": { "Departamento": "Cundinamarca" }, "geometry": { "type": "Polygon", "coordinates": [[[ -74.5, 5.8 ], [ -73.0, 5.8 ], [ -73.0, 4.2 ], [ -74.5, 4.2 ], [ -74.5, 5.8 ]]] } },
+
+    { "type": "Feature", "properties": { "Departamento": "Antioquia" }, "geometry": { "type": "Polygon", "coordinates": [[[ -76.6, 7.0 ], [ -75.2, 7.0 ], [ -75.2, 6.2 ], [ -76.6, 6.2 ], [ -76.6, 7.0 ]]] } }
+  ]
+}
